@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Fit Food</string>
+    <string name="main">Главная</string>
+    <string name="shopping_list">Список покупок</string>
+    <string name="profile">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LogIn_or_SignUp">Выполните вход или зарегестрируйтесь</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="log_in">Войти</string>
+    <string name="input_log_pass">Введите логин и пароль</string>
+    <string name="user_name">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="think_log_pass">Придумайте лоигн и пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="hello">Здравствуйте!</string>
+    <string name="hellofragment_content">Для более комфортного использования приложения необходимо пройти анкетирование. Ваши ответы на вопросы помогут узнать вас получше, подобрать правильный план, учитывающий Ваши предпочтения и противопоказания</string>
+    <string name="start">Начать</string>
+    <string name="what_u_name">Как Вас зовут?</string>
+    <string name="print_name">Введите имя</string>
+    <string name="further">Далее</string>
+    <string name="what_u_height">Какой у Вас рост (в см)?</string>
+    <string name="print_height">Введите рост</string>
+    <string name="what_u_weight">Какой у Вас вес (в кг)?</string>
+    <string name="print_weight">Введите вес</string>
+    <string name="what_u_goal">Какую цель вы преследуете в отношении своего питания?</string>
+    <string name="weight_loss">Похудение</string>
+    <string name="weight_gain">Набор массы</string>
+    <string name="drying">Сушка</string>
+    <string name="maintaining_mass">Поддержание массы</string>
+    <string name="what_u_activity_lvl">Опишите свой уровень активности:</string>
+    <string name="sedentary">Сидячий образ жизни</string>
+    <string name="moderately_active">Умеренно активный (умеренные физические нагрузки или ходьба 10 000 шагов в день)</string>
+    <string name="active">Активный (интенсивные тренировки 3-4 раза в неделю)</string>
+    <string name="very_active">Очень активный (ежедневные интенсивные тренировки или физическая работа)</string>
+    <string name="training_frequency">Как часто Вы тренируетесь?</string>
+    <string name="no_training">Не тренируюсь</string>
+    <string name="one_two_training">1-2 раза в неделю</string>
+    <string name="three_four_training">3-4 раза в неделю</string>
+    <string name="more_four_training">Более 4-х раз в неделю</string>
+    <string name="what_u_contraindications">Укажите продукты, добавки, ингредиенты и т.д., которые Вы не желаете видеть в своём рационе (противопоказания, не нравятся по вкусу), разделяя их запятыми</string>
+    <string name="what_u_preferences">Укажите продукты, ингредиенты и т.д., которые предпочитаете (нравятся по вкусу, рекомендованы к употреблению), разделяя их запятыми</string>
+</resources>
